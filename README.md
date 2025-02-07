@@ -16,7 +16,7 @@ Le site est découpé en 6 parties principales :
 
 ## Les auteurs du site
 
-Ce site à été créé de toute pièce par les dévelopeur de Fertilia, à savoir:
+Ce site à été créé de toute pièce par les développeurs de Fertilia, à savoir:
 * Léandre Leclerc
 * Pablo Rebufie
 * Ian Le Roux
