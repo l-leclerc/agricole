@@ -2,11 +2,13 @@ body{
 	background-image:url('images/fond.png');
 	background-size: contain; 
 	overflow-x: hidden;
-	margin-left: 20%;
-	margin-right: 20%;
 	background-color:#f9f9f9;
 }
 
+body > main {
+	margin-left: 20%;
+	margin-right: 20%;
+}
 body > header > nav > ul{
 	display: block;
 	width: 100%;
@@ -80,7 +82,7 @@ body > main > nav > ul > li > a {
 }
 
 body > main > nav > ul > li > a:hover {
-		color:aqua;
+	color:aqua;
 }
 
 .h3 {
@@ -90,4 +92,29 @@ body > main > nav > ul > li > a:hover {
 .ancre {
 	padding-top:10%;
 	margin-top:-10%;
+}
+
+p{
+	display:block;
+	background-color:rgb(131, 117, 17);
+	border-radius:15px;
+	box-shadow: 12x 12px 12px 1px black;
+	text-align: center;
+	font-family:cursive;
+	color : white;
+	vertical-align:middle;
+	padding: 50px;
+
+}
+
+.placement{
+	display:flex;
+}
+
+footer{
+	width:100%;
+	height: 100px;
+	background-color:grey;
+	margin-left:0;
+	text-align:center;
 }
