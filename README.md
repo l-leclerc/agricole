@@ -1,4 +1,4 @@
-# Ferilia
+# Fertilia
 
 Ce site présente toutes les spécificitées du jeu Fertilia, toutes information nécessaire à la compréhension du jeu se situe dans ce site.
 Il vous sera d'une grande aide tout au long de votre partie, bien que vous puissiez évidement jouer sans jamais avoir recourt à ce site.
